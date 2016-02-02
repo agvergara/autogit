@@ -35,12 +35,14 @@ try:
     	filepath = sys.argv[1]
         localtime = time.strftime("%x")
         autogit(filepath, localtime)
-    elif arglength == 3 and option == "-m":
+    elif option == "-m":
         filepath = sys.argv[2]	
         message = sys.argv[3]
         print message
         autogit(filepath, message)
     elif option == "-h":
+        print help()
+    else:
         print help()
 
     trashcan.close()
