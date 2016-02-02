@@ -1,4 +1,4 @@
-Print help when there are no args
+Print help when there are no args (DONE)
 Print help when options or args are wrong
 Make a subprocess.call find to get the path of the file
 
