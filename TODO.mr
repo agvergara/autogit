@@ -1,2 +1,8 @@
 Print help when there are no args
 Print help when options or args are wrong
+Make a subprocess.call find to get the path of the file
+
+
+FUTURE IDEAS:
+Multiple git adds
+Capture output git status and give it to git add
