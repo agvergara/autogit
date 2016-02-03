@@ -1,9 +1,9 @@
 Print help when there are no args (DONE)
 Print help when options or args are wrong
-Make a subprocess.call find to get the path of the file
-
 
 FUTURE IDEAS:
 Multiple git adds (DONE)
 Capture output git status and give it to git add
-Remove from git (and from directory)
+Remove from git (and from directory) (DONE)
+Remove multiple files (DONE)
+MOAR OPTIONS!
